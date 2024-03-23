@@ -281,5 +281,5 @@ if ($isRouteEnabled) {
 }
 ```
 
-[https://laravelpackage.com/08-models-and-migrations.html]https://laravelpackage.com/08-models-and-migrations.html 
+[https://laravelpackage.com/08-models-and-migrations.html](https://laravelpackage.com/08-models-and-migrations.html) 
 
